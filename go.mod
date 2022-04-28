@@ -1,4 +1,4 @@
-module assignment/httpservice
+module github.com/sofi2406/httpservice
 
 go 1.18
 
